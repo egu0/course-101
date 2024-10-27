@@ -16,3 +16,7 @@ https://github.com/user-attachments/assets/2e4e0da0-c31d-41c6-86e0-612496c476ff
 
 https://github.com/user-attachments/assets/4c06fbf0-ded7-43ca-a026-80c15e7c20f7
 
+## highlight incorrect words
+
+https://github.com/user-attachments/assets/317cc4a0-7793-4fdf-8993-8c4467dbb0c7
+
