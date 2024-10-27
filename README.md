@@ -1,4 +1,14 @@
-# course-101
+# Course-101
+
+a collection of English recordings, for tests
+
+# Reading
+
+## retell lecture
+
+https://github.com/user-attachments/assets/9c7291a1-8ff6-4604-aa87-f7601b91b782
+
+# Listening
 
 ## multiple choice
 
@@ -23,4 +33,9 @@ https://github.com/user-attachments/assets/317cc4a0-7793-4fdf-8993-8c4467dbb0c7
 ## write from dictation
 
 https://github.com/user-attachments/assets/3131b660-9541-4607-ad7b-3062f5c161ac
+
+## summarize spoken text
+
+todo
+
 
