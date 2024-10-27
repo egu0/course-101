@@ -20,3 +20,7 @@ https://github.com/user-attachments/assets/4c06fbf0-ded7-43ca-a026-80c15e7c20f7
 
 https://github.com/user-attachments/assets/317cc4a0-7793-4fdf-8993-8c4467dbb0c7
 
+## write from dictation
+
+https://github.com/user-attachments/assets/3131b660-9541-4607-ad7b-3062f5c161ac
+
