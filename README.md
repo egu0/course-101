@@ -36,6 +36,4 @@ https://github.com/user-attachments/assets/3131b660-9541-4607-ad7b-3062f5c161ac
 
 ## summarize spoken text
 
-todo
-
-
+https://github.com/user-attachments/assets/d78aafa8-7835-4500-ad98-2b4f40779ca5
