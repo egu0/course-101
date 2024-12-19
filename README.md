@@ -1,6 +1,6 @@
 # Course-101
 
-a collection of English recordings, for tests
+A collection of English recordings
 
 # Reading
 
